@@ -1,0 +1,55 @@
+
+
+.jod{
+    margin-left: 570px;
+    margin-top: 100px;
+    background-color: rgb(247, 235, 235);
+    width: 500px;
+    height: 465px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.img{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.img img{
+    
+    border-radius: 300px;
+    border: 3px solid black;
+}
+
+.name{
+    margin-left: 165px;
+    margin-top: -5px;
+}
+.desc{
+    padding-left: 25px;
+    padding-right: 5px;
+}
+.vi{
+    background-color: beige;
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+}
+.vi1{
+    display: flex;
+    background-color: beige;
+    margin-top: -50px;
+    margin-left: 260px;
+    padding-left: 70px;
+    padding-top: 15px;
+    width: 200px;
+    height: 50px;
+    cursor: pointer; 
+    text-align: center;
+    
+
+}
