@@ -38,6 +38,8 @@
     width: 200px;
     height: 50px;
     cursor: pointer;
+    box-shadow: 2px 2px 2px;
+    transition: 0.2s;
 }
 .vi1{
     display: flex;
@@ -50,6 +52,12 @@
     height: 50px;
     cursor: pointer; 
     text-align: center;
-    
-
+    box-shadow: 2px 2px 2px;
+    transition: 0.2s;
+}
+.vi1:hover {
+  color: rgb(243, 201, 201);
+}
+.vi:hover {
+  color: rgb(243, 201, 201);
 }
